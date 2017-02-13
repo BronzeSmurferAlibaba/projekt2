@@ -1,0 +1,14 @@
+body{
+  background-color: grey;
+}
+#rejestracja{
+  text-align: center;
+}
+#logowanie{
+  text-align: center;
+}
+.error{
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
